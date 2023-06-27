@@ -29,7 +29,10 @@ As a reminder, here are the instructions:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X7OwxO7zuzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- TODO: Add video walkthrough -->
-
+```
+make a function `isPalindrome` that returns true if a word is a
+palindrome.That means if the last letter and the first letter is the same,and the second letter is equal to the second to last letter.etc until we reach the middle ,return true.
+```
 ### 1. Rewrite the Problem in Your Own Words
 
 Just like before, we'll start by rewriting the problem in a different way to
